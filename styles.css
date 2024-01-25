@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  border: 4px solid rgb(250, 38, 38);
+  align-items: center;
+  padding: 8px;
+}
+
+img {
+  width: 120px;
+  height: 120px;
+  border: 2px solid;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+  justify-content: right;
+}
+
+a {
+  text-decoration: none;
+}
